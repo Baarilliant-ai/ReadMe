@@ -4,11 +4,11 @@
 
 ## 🎉 Features and Roadmap.
 
-I've crafted Baa an llm client for the web and desktop. Useful features for anyone working with llm's! Chat, handling prompts, construct functions, and run experiments with multiple models from OpenAI and Anthropic. Here's some early details on what Baa is, what Baa can do.
+I've crafted Baa, an LLM client for the web and desktop. Useful features for anyone working with LLMs! Chat, handling prompts, construct functions, and run experiments with multiple models from OpenAI and Anthropic. Here's some early details on what Baa is, what Baa can do.
 
 ## 👨‍💻 Development
 
-I created Baa because I was struggling to find an existing llm client that was spot on for my needs. Ai and LLM's have fundamentally changed how i work, more and more frequently what i do. But I struggled to find a way to use them that suited me.
+I created Baa because I was struggling to find an existing LLM client that was spot on for my needs. AI and LLMs have fundamentally changed how I work, more and more frequently what I do. But I struggled to find a way to use them that suited me.
 
 ### As a IT professional...
 
@@ -29,7 +29,7 @@ I created Baa because I was struggling to find an existing llm client that was s
 
 ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2Fj0U5ZwvyBWXo6Ag9TucfUoaCtfi1%2F8be3089a2f8e4f068ed14c5f7b4dedc0?alt=media\&token=a4af1e6b-907b-46da-8ae1-a4ddd0fa9602)
 
-When working with code or queries, there's some useful utilities like, forking a chat, downloading file's, starting experiments, and copy of course.
+When working with code or queries, there's some useful utilities like, forking a chat, downloading files, starting experiments, and copy of course.
 
 ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2Fj0U5ZwvyBWXo6Ag9TucfUoaCtfi1%2F3d009585f9e447bba16c8c830f1feee1?alt=media\&token=79e73ead-f7e8-4b05-b910-1205ef2eca35)
 
@@ -43,29 +43,29 @@ When working with code or queries, there's some useful utilities like, forking a
 
 ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2Fj0U5ZwvyBWXo6Ag9TucfUoaCtfi1%2F51d7f5d28f5f486094fd0302e450b12d?alt=media\&token=763cea96-ad79-4430-9bc1-2a823aeeca1b)
 
-**Experiment**: Experiment with different approaches or ideas, save and iterate ai functions, completions, chains and agents.
+**Experiment**: Experiment with different approaches or ideas, save and iterate AI functions, completions, chains and agents.
 
 ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2Fj0U5ZwvyBWXo6Ag9TucfUoaCtfi1%2F736a1ac3b68c4d5ba0d4c061c9011f7d?alt=media\&token=7e121893-5fa9-416b-9613-88998e82ac9a)
 
-## Now i have created Baa here's where i want it to go?
+## Now I have created Baa here's where I want it to go?
 
-- Desktop App everything local auth, storage and llm's. Remove any cloud dependencies.
+- Desktop App everything local auth, storage and LLMs. Remove any cloud dependencies.
 - Optional online community for sharing chats, prompts, and functions.
 - Sharing, chats, prompts, functions and experiments.
-- Local models, support local llm's.
+- Local models, support local LLMs.
 - Local storage, store chats, prompts, functions and experiments locally.
 - Local auth, authenticate using local authentication.
 - Open interpretor, integrate https://openinterpreter.com
 - VS Code integration, open file, open experiments in VS Code.
 - Two way audio, home assistant and agents.
 - Multimodal and vision
-- OpenAi Plugins \*complete
+- OpenAI Plugins \*complete
 
 ## Interesting
 
 - Anthropic integrated in 30minutes
 
-Recently Anthropic widened access to Claude2 it took 30 minutes to integrate there api with Baa! Think what we can do to improve the Ui of local llm's.
+Recently Anthropic widened access to Claude2 it took 30 minutes to integrate there api with Baa! Think what we can do to improve the UI of local LLMs.
 - Closed & open source
 
 I'm not sure please, truly please, let me know your thoughts. Email Me (hello@baarilliant.ai)
@@ -85,12 +85,12 @@ shadcn/ui (https://ui.shadcn.com/): re-usable components built using Radix UI an
 
 Azure Cosmos DB (https://learn.microsoft.com/en-GB/azure/cosmos-db/nosql/): fully managed platform-as-a-service (PaaS) NoSQL database to store chat history
 
-https://www.helicone.ai (https://www.helicone.ai/dashboard): Experienced first-hand the pain of managing internal tools and monitoring for LLM's at scale ? Use Helicone to solve these problems for you.
+https://www.helicone.ai (https://www.helicone.ai/dashboard): Experienced first-hand the pain of managing internal tools and monitoring for LLMs at scale ? Use Helicone to solve these problems for you.
 - Whats stopping Baa from release?
 
 For Cloud - Actually one! or maybe two things. How to securely (like really) manage API Keys provided by you, or how to bill you for API Usage.
 
-For Local - our Electron App Exists, so does Auth. Currently light weight document storage is the blocker, I'll likely write a JSON file api for langchain same as Azure Cosmos.
+For Local - our Electron App Exists, so does Auth. Currently light weight document storage is the blocker, I'll likely write a JSON file API for langchain same as Azure Cosmos.
 - Why a Sheep why Baa?
 
 _-soon- but i'm Welsh _🏴󠁧󠁢󠁷󠁬󠁳󠁿.
@@ -103,4 +103,4 @@ _-soon-_
 
 ## Coming soon & Roadmap.
 
-Working on this now, as of early October 2023. Lets go.
+Working on this now, as of early October 2023. Let's go.
