@@ -47,6 +47,8 @@ When working with code or queries, there's some useful utilities like, forking a
 
 ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2Fj0U5ZwvyBWXo6Ag9TucfUoaCtfi1%2F736a1ac3b68c4d5ba0d4c061c9011f7d?alt=media\&token=7e121893-5fa9-416b-9613-88998e82ac9a)
 
+**Sharing Chats**: you can now share chats via the chat screen. When a chat is shared a point in time copy (The prompt and current chat content) is created, this link is public and as such cannot be undone. The chat will also be listed at Community (https://baarilliant.ai/share/):
+
 ## Now I have created Baa here's where I want it to go?
 
 - Desktop App everything local auth, storage and LLMs. Remove any cloud dependencies.
