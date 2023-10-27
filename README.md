@@ -12,8 +12,8 @@ I created Baa because I was struggling to find an existing LLM client that was s
 
 ### As a IT professional...
 
-- Pretty, common, modern UI.
-- Access to data, local and cloud.
+- Smart, use every where, every model, modern UI.
+- Own data, local and cloud.
 - No vendor lock-in.
 - Self host.
 - Desktop Apps.
@@ -47,13 +47,11 @@ When working with code or queries, there's some useful utilities like, forking a
 
 ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2Fj0U5ZwvyBWXo6Ag9TucfUoaCtfi1%2F736a1ac3b68c4d5ba0d4c061c9011f7d?alt=media\&token=7e121893-5fa9-416b-9613-88998e82ac9a)
 
-**Sharing Chats**: you can now share chats via the chat screen. When a chat is shared a point in time copy (The prompt and current chat content) is created, this link is public and as such cannot be undone. The chat will also be listed at Community (https://baarilliant.ai/share/):
+**Sharing Chats**: You can now share chats from the chat screen. A shared chat is a point in time copy (the prompt and current chat thread), the chat and its link are public, as such cannot be undone. The chat will also be listed at Community (https://baarilliant.ai/share/)
 
 ## Now I have created Baa here's where I want it to go?
-
+- LM Studio integrate (https://lmstudio.ai)
 - Desktop App everything local auth, storage and LLMs. Remove any cloud dependencies.
-- Optional online community for sharing chats, prompts, and functions.
-- Sharing, chats, prompts, functions and experiments.
 - Local models, support local LLMs.
 - Local storage, store chats, prompts, functions and experiments locally.
 - Local auth, authenticate using local authentication.
