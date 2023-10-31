@@ -1,30 +1,58 @@
-# Baa the LLM client https://baarilliant.ai
+# Baa the AI client https://baarilliant.ai
 
 ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2Fj0U5ZwvyBWXo6Ag9TucfUoaCtfi1%2F109ceb2cf8014686a4d86a812ecc2ce4?alt=media\&token=7f1918fd-be9a-4748-ae78-bdc30a4347f8)
 
-## 🎉 Features and Roadmap.
+## 🎉 About
 
-I've crafted Baa, an LLM client for the web and desktop. Useful features for anyone working with LLMs! Chat, handling prompts, construct functions, and run experiments with multiple models from OpenAI and Anthropic. Here's some early details on what Baa is, what Baa can do.
-See [Whats Next](#now-i-have-created-baa-heres-where-i-want-it-to-go) 
+I've crafted Baa an LLM and generative AI client for the web and desktop. 
 
-## 👨‍💻 Development
+Baa includes loads of useful features for chat, handling prompts, constructing functions, sharing and experimenting with LLM's and generative AI from OpenAI, Anthropic and models such as StableDiffusion and Llama using Fireworks.ai. I created Baa because I was struggling to find an existing client that was spot on for my needs.
 
-I created Baa because I was struggling to find an existing LLM client that was spot on for my needs. AI and LLMs have fundamentally changed how I work, more and more frequently what I do. But I struggled to find a way to use them that suited me.
+[Features](#now-i-have-created-baa-heres-where-i-want-it-to-go) -  [Roadmap](#now-i-have-created-baa-heres-where-i-want-it-to-go) - [FAQ](#now-i-have-created-baa-heres-where-i-want-it-to-go)
 
-### As a IT professional...
 
-- Smart, use every where, every model, modern UI.
-- Own data, local and cloud.
+## Why build Baa?
+
+Like many people, I had used the OpenAi playground very occasionally for maybe a couple of years, and thought oh' thats kinda cool, then ChatGPT happend; I was blown away by the capability! Not only being able to talk to AI but also how OpenAI had presented there LLM's in a usable way, remeber I used the playground for a few years.
+
+Great, i want more! Anthropic, open models like Llama, generative models, functions gimme gimme. I found myself working in different apps/ui's with few or differing features for tasks such as copying, downloading, sharing chats and code blocks. Saving the prompts I use or the functions and art I create. 
+
+Thats why I built Baa.
+
+- Modern UI with common features.
+- Own the data, local and cloud.
+- Any AI, local and cloud.
+- Create and organise prompts, functions and models.
+- Save and experment, playground for different models and outputs.
 - No vendor lock-in.
 - Self host.
-- Desktop Apps.
+- Desktop apps.
 - Sharing features.
 - Developer features.
 
-## Here's what Baa can do.
+## Features
+- **Chat**:
+- **Organise**:
+- **Multiple LLM's**:Switch between different AI's OpenAI, Anthropic and models such as StableDiffusion and Llama using Fireworks.ai.
+- **Experiment**:
+- **Share and Export**:
+- **Desktop Web App**:Use Baa as an App on your desktop, Baa will continue to use online services for data and auth.
 
-- **Multiple agents (OpenAI and Anthropic)**: Switch between different AI agents, such as OpenAI and Anthropic, to benefit from their respective capabilities and expertise.
-- **Desktop Web App: **Use Baa as an App on your desktop, Baa will continue to use Online services for data and auth.
+## Roadmap
+- Bring your own keys (BYOK) and billing.
+- Desktop app everything local auth, storage and LLMs. 
+- Remove cloud dependencies. Local storage, auth, chats, prompts, functions and experiments.
+- Talk to Baa. Two way audio, home assistant and agents.
+- Multimodal and vision
+- Local models, support local LLMs.
+- Open interpretor, integrate https://openinterpreter.com
+- VS Code integration, open file, open experiments in VS Code.
+- OpenAI Plugins \*complete
+ 
+Whats [Not on the Roadmap](#now-i-have-created-baa-heres-where-i-want-it-to-go) ?
+
+## Screenshots of Baa
+>Note this needs updating as Baa now includes many more features...
 
 **Chat**: The usual Chat with GPT, but Baa has some useful additions such as system prompts, forking chats and multiple models.
 
@@ -49,59 +77,42 @@ When working with code or queries, there's some useful utilities like, forking a
 ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2Fj0U5ZwvyBWXo6Ag9TucfUoaCtfi1%2F736a1ac3b68c4d5ba0d4c061c9011f7d?alt=media\&token=7e121893-5fa9-416b-9613-88998e82ac9a)
 
 **Sharing Chats**: You can now share chats from the chat screen. A shared chat is a point in time copy (the prompt and current chat thread), the chat and its link are public, as such cannot be undone. The chat will also be listed at Community (https://baarilliant.ai/share/)
+## Interesting Topics
 
-## Now I have created Baa here's where I want it to go?
-- LM Studio integrate (https://lmstudio.ai)
-- Desktop App everything local auth, storage and LLMs. Remove any cloud dependencies.
-- Local models, support local LLMs.
-- Local storage, store chats, prompts, functions and experiments locally.
-- Local auth, authenticate using local authentication.
-- Open interpretor, integrate https://openinterpreter.com
-- VS Code integration, open file, open experiments in VS Code.
-- Two way audio, home assistant and agents.
-- Multimodal and vision
-- OpenAI Plugins \*complete
+#### Anthropic Integration
+Recently, Anthropic widened access to Claude2. It only took 30 minutes to integrate their API with Baa! Just imagine what we can do to improve the UI of local LLMs.
 
-## Interesting
+#### Closed & Open Source
+I'm not sure, but please let me know your thoughts. You can email me at hello@baarilliant.ai.
 
-- Anthropic integrated in 30minutes
+#### Baa Development
+Baa is developed using the following technologies:
+- [Node.js 18](https://nodejs.org/en): an open-source, cross-platform JavaScript runtime environment.
+- [Next.js 14](https://nextjs.org/docs): enables you to create full-stack web applications by extending the latest React features.
+- [NextAuth.js](https://next-auth.js.org/): a configurable authentication framework for Next.js 13.
+- [LangChain JS](https://www.langchain.com/): an AI orchestration layer to build intelligent apps.
+- [Vercel AI SDK](https://sdk.vercel.ai/docs): An open source library for building AI-powered user interfaces.
+- [Tailwind CSS](https://tailwindcss.com/): a utility-first CSS framework that provides a series of predefined classes for styling.
+- [shadcn/ui](https://ui.shadcn.com/): re-usable components built using Radix UI and Tailwind CSS.
+- [Azure Cosmos DB](https://learn.microsoft.com/en-GB/azure/cosmos-db/nosql/): a fully managed platform-as-a-service (PaaS) NoSQL database used to store chat history.
+- [Helicone](https://www.helicone.ai/dashboard): a tool to manage internal tools and monitoring for LLMs at scale.
+- [Fireworks](https://www.fireworks.ai/): launch open LLMs at scale.
 
-Recently Anthropic widened access to Claude2 it took 30 minutes to integrate there api with Baa! Think what we can do to improve the UI of local LLMs.
-- Closed & open source
+#### Release Challenges
+For the Cloud version, there are a couple of things. One is how to securely manage API keys provided by you, and the other is how to bill you for API usage.
 
-I'm not sure please, truly please, let me know your thoughts. Email Me (hello@baarilliant.ai)
-- How Baa is developed?
+For the Local version, we already have an Electron app and authentication in place. The main blocker is implementing a lightweight document storage solution. We are considering writing a JSON file API for LangChain, similar to Azure Cosmos.
 
-Node.js 18 (https://nodejs.org/en): an open-source, cross-platform JavaScript runtime environment.
+#### Baa's Identity
+Why a Sheep? Why Baa? Well, I'm Welsh! 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
-Next.js 13 (https://nextjs.org/docs): enables you to create full-stack web applications by extending the latest React features
+#### Baa's Purpose
+Why was Baa built? More information coming soon!
 
-NextAuth.js (https://next-auth.js.org/): configurable authentication framework for Next.js 13
+#### Mobile Version
+Is there a mobile version of Baa? Stay tuned for updates!
 
-LangChain JS (https://www.langchain.com/): AI orchestration layer to build intelligent apps
-
-Tailwind CSS (https://tailwindcss.com/): is a utility-first CSS framework that provides a series of predefined classes that can be used to style each element by mixing and matching
-
-shadcn/ui (https://ui.shadcn.com/): re-usable components built using Radix UI and Tailwind CSS.
-
-Azure Cosmos DB (https://learn.microsoft.com/en-GB/azure/cosmos-db/nosql/): fully managed platform-as-a-service (PaaS) NoSQL database to store chat history
-
-https://www.helicone.ai (https://www.helicone.ai/dashboard): Experienced first-hand the pain of managing internal tools and monitoring for LLMs at scale ? Use Helicone to solve these problems for you.
-- Whats stopping Baa from release?
-
-For Cloud - Actually one! or maybe two things. How to securely (like really) manage API Keys provided by you, or how to bill you for API Usage.
-
-For Local - our Electron App Exists, so does Auth. Currently light weight document storage is the blocker, I'll likely write a JSON file API for langchain same as Azure Cosmos.
-- Why a Sheep why Baa?
-
-_-soon- but i'm Welsh _🏴󠁧󠁢󠁷󠁬󠁳󠁿.
-- Why build this?
-
-_-soon-_
-- Build this for mobile?
-
--soon- but no.
-
+There are plans for a mobile version, but it is not available yet.
 ## Coming soon & Roadmap.
 
-Working on this now, as of early October 2023. Let's go.
+Working on this now, as of early November 2023. Let's go.
