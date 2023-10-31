@@ -6,7 +6,7 @@
 
 I've crafted Baa an LLM and generative AI client for the web and desktop. 
 
-Baa includes loads of useful features for chat, handling prompts, constructing functions, sharing and experimenting with LLM's and generative AI from OpenAI, Anthropic and models such as StableDiffusion and Llama using Fireworks.ai. I created Baa because I was struggling to find an existing client that was spot on for my needs.
+Baa has a lot of useful features for chat, handling prompts, building functions, sharing and experimenting with LLMs and generative AI from OpenAI, Anthropic, and models like StableDiffusion and Llama using Fireworks. I created Baa because I was struggling to find an existing client that was spot on for my needs.
 
 [Features](#now-i-have-created-baa-heres-where-i-want-it-to-go) -  [Roadmap](#now-i-have-created-baa-heres-where-i-want-it-to-go) - [FAQ](#now-i-have-created-baa-heres-where-i-want-it-to-go)
 
