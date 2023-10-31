@@ -114,6 +114,6 @@ Is there a mobile version of Baa? Stay tuned for updates!
 
 There are plans for a mobile version, but it is not available yet.
 
-#not-on-the-roadmap
+## Not on the Roadmap
 
 Working on this now, as of early November 2023. Let's go.
