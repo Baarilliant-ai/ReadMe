@@ -110,10 +110,10 @@ Why a Sheep? Why Baa? Well, I'm Welsh! 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 Why was Baa built? More information coming soon!
 
 #### Mobile Version
-Is there a mobile version of Baa? Stay tuned for updates!
-
-There are plans for a mobile version, but it is not available yet.
+Is there a mobile version of Baa? No but I have plans. Although unlikely it'll be text based. I see mobile Baa as voice only.
 
 ## Not on the Roadmap
-
-Working on this now, as of early November 2023. Let's go.
+- Baa wont be ChatGPT.
+- RAG (document chat) maybe, probably not.
+- Agents, Bots, Personnas, these features come from prompting LLM's correctly. perhaps agents or chaining multiple LLM's will happen.
+- ~~Local LLM's~~, its complete and used the features but on consumer hardware its a disapointing experiance, hence using Fireowrks.ai for the same outcome. Revisit 2024.
