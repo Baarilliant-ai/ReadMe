@@ -49,7 +49,7 @@ Thats why I built Baa.
 - VS Code integration, open file, open experiments in VS Code.
 - OpenAI Plugins \*complete
  
-Whats [Not on the Roadmap](#now-i-have-created-baa-heres-where-i-want-it-to-go) ?
+Whats [Not on the Roadmap](#not-on-the-roadmap) ?
 
 ## Screenshots of Baa
 >Note this needs updating as Baa now includes many more features...
@@ -113,6 +113,7 @@ Why was Baa built? More information coming soon!
 Is there a mobile version of Baa? Stay tuned for updates!
 
 There are plans for a mobile version, but it is not available yet.
-## Coming soon & Roadmap.
+
+#not-on-the-roadmap
 
 Working on this now, as of early November 2023. Let's go.
