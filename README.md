@@ -13,17 +13,17 @@ Baa includes loads of useful features for chat, handling prompts, constructing f
 
 ## Why build Baa?
 
-Like many people, I had used the OpenAi playground very occasionally for maybe a couple of years, and thought oh' thats kinda cool, then ChatGPT happend; I was blown away by the capability! Not only being able to talk to AI but also how OpenAI had presented there LLM's in a usable way, remeber I used the playground for a few years.
+Like many people, I had used the OpenAi playground very occasionally for maybe a couple of years, and thought oh  that's kinda cool, then ChatGPT happened; I was blown away by the capability! Not only being able to talk to AI but also how OpenAI had presented there LLM's in a usable way, remember I used the playground for a few years.
 
-Great, i want more! Anthropic, open models like Llama, generative models, functions gimme gimme. I found myself working in different apps/ui's with few or differing features for tasks such as copying, downloading, sharing chats and code blocks. Saving the prompts I use or the functions and art I create. 
+Great, i want more! Anthropic, open models like Llama, generative models, functions gimme gimme. I found myself working in different apps/UI's with few or differing features for tasks such as copying, downloading, sharing chats and code blocks. Saving the prompts I use or the functions and art I create. 
 
-Thats why I built Baa.
+That's why I built Baa.
 
 - Modern UI with common features.
 - Own the data, local and cloud.
 - Any AI, local and cloud.
 - Create and organise prompts, functions and models.
-- Save and experment, playground for different models and outputs.
+- Save and experiment, playground for different models and outputs.
 - No vendor lock-in.
 - Self host.
 - Desktop apps.
@@ -42,14 +42,14 @@ Thats why I built Baa.
 - Bring your own keys (BYOK) and billing.
 - Desktop app everything local auth, storage and LLMs. 
 - Remove cloud dependencies. Local storage, auth, chats, prompts, functions and experiments.
-- Talk to Baa. Two way audio, home assistant and agents.
+- Talk to Baa. Two-way audio, home assistant and agents.
 - Multimodal and vision
 - Local models, support local LLMs.
-- Open interpretor, integrate https://openinterpreter.com
+- Open interpreter, integrate https://openinterpreter.com
 - VS Code integration, open file, open experiments in VS Code.
 - OpenAI Plugins \*complete
  
-Whats [Not on the Roadmap](#not-on-the-roadmap) ?
+What's [Not on the Roadmap](#not-on-the-roadmap) ?
 
 ## Screenshots of Baa
 >Note this needs updating as Baa now includes many more features...
@@ -58,7 +58,7 @@ Whats [Not on the Roadmap](#not-on-the-roadmap) ?
 
 ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2Fj0U5ZwvyBWXo6Ag9TucfUoaCtfi1%2F8be3089a2f8e4f068ed14c5f7b4dedc0?alt=media\&token=a4af1e6b-907b-46da-8ae1-a4ddd0fa9602)
 
-When working with code or queries, there's some useful utilities like, forking a chat, downloading files, starting experiments, and copy of course.
+When working with code or queries, there are some useful utilities like, forking a chat, downloading files, starting experiments, and copy of course.
 
 ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2Fj0U5ZwvyBWXo6Ag9TucfUoaCtfi1%2F3d009585f9e447bba16c8c830f1feee1?alt=media\&token=79e73ead-f7e8-4b05-b910-1205ef2eca35)
 
@@ -93,7 +93,7 @@ Baa is developed using the following technologies:
 - [LangChain JS](https://www.langchain.com/): an AI orchestration layer to build intelligent apps.
 - [Vercel AI SDK](https://sdk.vercel.ai/docs): An open source library for building AI-powered user interfaces.
 - [Tailwind CSS](https://tailwindcss.com/): a utility-first CSS framework that provides a series of predefined classes for styling.
-- [shadcn/ui](https://ui.shadcn.com/): re-usable components built using Radix UI and Tailwind CSS.
+- [shadcn/UI](https://ui.shadcn.com/): re-usable components built using Radix UI and Tailwind CSS.
 - [Azure Cosmos DB](https://learn.microsoft.com/en-GB/azure/cosmos-db/nosql/): a fully managed platform-as-a-service (PaaS) NoSQL database used to store chat history.
 - [Helicone](https://www.helicone.ai/dashboard): a tool to manage internal tools and monitoring for LLMs at scale.
 - [Fireworks](https://www.fireworks.ai/): launch open LLMs at scale.
@@ -110,10 +110,10 @@ Why a Sheep? Why Baa? Well, I'm Welsh! 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 Why was Baa built? More information coming soon!
 
 #### Mobile Version
-Is there a mobile version of Baa? No but I have plans. Although unlikely it'll be text based. I see mobile Baa as voice only.
+Is there a mobile version of Baa? No, but I have plans. Although unlikely, it'll be text based. I see mobile Baa as voice only.
 
 ## Not on the Roadmap
-- Baa wont be ChatGPT.
+- Baa won't be ChatGPT.
 - RAG (document chat) maybe, probably not.
-- Agents, Bots, Personnas, these features come from prompting LLM's correctly. perhaps agents or chaining multiple LLM's will happen.
-- ~~Local LLM's~~, its complete and used the features but on consumer hardware its a disapointing experiance, hence using Fireowrks.ai for the same outcome. Revisit 2024.
+- Agents, Bots, Personas, these features come from prompting LLM's correctly. Perhaps agents or chaining multiple LLM's will happen.
+- ~~Local LLM's~~, its complete and used the features but on consumer hardware it's a disappointing experience, hence using Fireewrks.ai for the same outcome. Revisit 2024.
