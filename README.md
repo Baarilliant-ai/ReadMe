@@ -80,7 +80,10 @@ When working with code or queries, there are some useful utilities like, forking
 ## Interesting Topics
 
 #### Anthropic Integration
-Recently, Anthropic widened access to Claude2. It only took 30 minutes to integrate their API with Baa! Just imagine what we can do to improve the UI of local LLMs.
+Recently, Anthropic widened access to Claude2. 30 minutes to integrate their API with Baa! Just imagine what we can do to improve the UI of local LLMs.
+
+#### Fireworks.ai Integration
+Yeah same as Anthropic 30 minutes to integrate the API with Baa! Excited for future LLM's using langchain chat models.
 
 #### Closed & Open Source
 I'm not sure, but please let me know your thoughts. You can email me at hello@baarilliant.ai.
